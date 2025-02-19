@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 #include <ModbusRTU.h>
 
 // Define RS485 RX and TX pins
